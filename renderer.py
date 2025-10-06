@@ -1,4 +1,4 @@
-# renderer.py - Implementation side of Bridge pattern
+# renderer.py - Implementation side of Bridge pattern 
 
 class Renderer:
     """Base class for all renderers - defines HOW to draw shapes"""
