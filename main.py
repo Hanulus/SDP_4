@@ -1,4 +1,4 @@
-# main.py - Demo Application
+# main.py - Demo Application 
 
 from renderer import VectorRenderer, RasterRenderer
 from shape import Circle, Square
