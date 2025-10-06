@@ -1,4 +1,4 @@
-# shape.py - Abstraction side of Bridge pattern
+# shape.py - Abstraction side of Bridge pattern 
 
 class Shape:
     """Base class for all shapes - defines WHAT to draw"""
